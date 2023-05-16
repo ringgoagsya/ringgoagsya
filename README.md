@@ -1,6 +1,6 @@
 # Portfolio
 
-Perkenalkan nama saya **Ringgo Sahara Agsya Lova**.\
+Perkenalkan nama saya **Ringgo Sahara Agsya Lova**.
 
 Saya seorang **Mahasiswa S1 Sistem Informasi Universitas Andalas** di [LinkedIn](https://id.linkedin.com/in/ringgo-agsya-8b0045202).
 
